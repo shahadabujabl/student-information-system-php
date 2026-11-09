@@ -1,0 +1,15 @@
+<?php 
+echo '<div class="nav">
+<ul>
+    <li><a href="index.php"><button id="tab_1" class="btn_tab" href=""><img src="..//assets//img//icon//home.png" alt="noimg"></img>Home</button></a></li>
+    <li><a href="student_list.php"><button id="tab_2" class="btn_tab" href=""><img src="..//assets//img//icon//student.png" alt="noimg"></img>Students</button></a></li>
+    <li><a href="department_List.php"><button id="tab_3" class="btn_tab" href=""><img src="..//assets//img//icon//building.png" alt="noimg"></img>Departments</button></a></li>
+    <li><a href="instructor_List.php"><button id="tab_4" class="btn_tab" href=""><img src="..//assets//img//icon//instructor.png" alt="noimg"></img>Instructors</button></a></li>
+    <li><a href="course_List.php"><button id="tab_5" class="btn_tab" href=""><img src="..//assets//img//icon//e-learning.png" alt="noimg"></img>Courses</button></a></li>
+    <li><a href="enrollment_List.php"><button id="tab_5" class="btn_tab" href=""><img src="..//assets//img//icon//enroll.png" alt="noimg"></img>Enrollment</button></a></li>
+
+</ul>
+
+</div>';
+
+?>
