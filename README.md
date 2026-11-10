@@ -1,7 +1,6 @@
 # 🏫 Student Information System
 
-A web-based Student Information System built as a Web Programming course mini project at Jazan University. 
-It lets an administrator manage students, departments, instructors, courses, and course enrollments from a single dashboard.
+A web-based Student Information System that lets an administrator manage students, departments, instructors, courses, and course enrollments from a single dashboard.
 
 ## ✨ Features
 
