@@ -4,7 +4,7 @@ A web-based Student Information System that lets an administrator manage student
 
 ## ✨ Features
 
-- Secure admin login with session-based access
+- Admin login with session-based access
 - Dashboard showing totals for students, departments, instructors, courses, and enrollments
 - Full add, edit, and delete (CRUD) management for students, instructors, and courses
 - Add and edit management for departments
